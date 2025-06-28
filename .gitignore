@@ -1,0 +1,49 @@
+node_modules
+
+
+# bhai esko chalane ke liye sabse pahle too hamee 
+# server me 
+# npm install
+# npm run server
+
+# after that 
+# client meee
+# npm installnpm run dev
+
+
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Build & output folders
+dist/
+build/
+.cache/
+
+# Next.js (if used)
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# ImageKit uploads (if local)
+uploads/
+
+
+
