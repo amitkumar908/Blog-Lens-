@@ -1,17 +1,5 @@
 node_modules
 
-
-# bhai esko chalane ke liye sabse pahle too hamee 
-# server me 
-# npm install
-# npm run server
-
-# after that 
-# client meee
-# npm installnpm run dev
-
-
-
 # Node.js dependencies
 node_modules/
 
@@ -45,5 +33,5 @@ Thumbs.db
 # ImageKit uploads (if local)
 uploads/
 
-
+howrun
 
